@@ -22,6 +22,12 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  padding-left: 50px;
+}
+
+nav li {
+  display: inline;
+  padding-right: 20px;
 }
 
 .theme-dropdown .dropdown-menu {
